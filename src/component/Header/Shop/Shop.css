@@ -1,0 +1,19 @@
+.mainUl{
+    width: 500px;
+    border-radius: 10px;
+    
+}
+.mainUl li{
+    height: 100px;
+    color: lemonchiffon ;
+    background-color: indianred;
+    margin:3px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mainUl h1{
+    margin: 10px;
+    background-color: lightcoral;
+    text-align: center;
+}
