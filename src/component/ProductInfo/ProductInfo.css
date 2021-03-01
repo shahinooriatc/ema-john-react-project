@@ -1,0 +1,39 @@
+.product-info{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+
+}
+.image-area{
+    width: 25%;
+    margin:0px 10px;
+}
+.image-area img{
+    height: auto;
+    width: 100%;
+}
+.info-area{
+    width: 70%;
+    border-bottom:1px solid gray;
+    border-right:1px solid gray;
+
+    border-radius: 3px;
+}
+.title-area{
+    color: brown;
+    margin: 10px 0px;
+}
+.feature-area{
+
+}
+.price-area{
+    color: coral;
+    margin-top: 10px;
+}
+.buy-button{
+    width: 120px;
+    color: orangered;
+    margin: 10px 0px;
+    padding: 5px;
+    cursor: pointer;
+}

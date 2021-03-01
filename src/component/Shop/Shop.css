@@ -1,0 +1,19 @@
+.product-area{
+    display: flex;    
+}
+.product-info{
+    width: 75%;
+    margin-left: 50px;
+}
+.product-cart{
+
+}
+.product-info li{
+    height: 80px;
+    border-right: 1px solid lightgray;
+    margin-top: 5px;
+}
+.product-cart h1{
+    background-color: lightcoral;
+    text-align: center;
+}
